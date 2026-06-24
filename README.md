@@ -6,12 +6,6 @@ Built for the **Assessment & Feedback Automation** hackathon challenge track. Te
 
 ---
 
-## Live Demo
-
-- **App:** [add your deployed frontend URL here]
-- **API:** [add your deployed backend URL here]
-- **Video walkthrough:** [optional — add a Loom/YouTube link]
-
 ---
 
 ## The Problem
@@ -200,8 +194,5 @@ Open the printed `localhost:5173` URL. The frontend expects the backend at `http
 
 ## Team
 
-Built by **Aryan Yadav** — 3rd-year B.Tech CS student, Uttaranchal University.
+Built by **Aryan Yadav** && **Anusri Joddar**— 3rd-year B.Tech CS student, Uttaranchal University.
 
-## License
-
-[MIT](LICENSE) — or update if your hackathon requires otherwise.
